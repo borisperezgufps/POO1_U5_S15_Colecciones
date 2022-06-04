@@ -71,6 +71,35 @@ public class ClienteHashMap {
 	
 	public void manipularObjetos() {
 		
+		// Cree una colección guardando un objeto 
+		// persona y usando la CC como llave.
+		// Hágalo para tres personas, y use las 
+		// CC: 88234, 99345 y 23456.
+		
+		
+		// Imprima la lista de personas por CC.
+		
+		
+		// Imprima solo el nombre de la persona con CC 23456
+		
+		
+		// Imprima solo el nombre de la persona con CC 88234
+		
+		
+		// Actualice la edad de la persona con CC 99345. Debe
+		// sumarle dos años.
+		
+		
+		// Elimine a las personas que sean menores de edad. 
+		// En caso de no tener personas menores de edad, se 
+		// recomienda crear nuevas. Recuerde imprimirlas primero
+		// y luego sí eliminarlas.
+		
+		
+		// Cree una colección para agrupar a las personas por edad.
+		// Debe manejar una colección con la edad como llave, y la
+		// lista de personas como valor.
+		
 	}
 	
 }
