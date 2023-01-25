@@ -145,6 +145,8 @@ public class ClienteArrayList {
 	
 	public void realizarOperacionesObjeto() {
 		
+		// Use el arraylist listaPersonas;
+		
 		// Agregar tres objetos
 		
 		// Imprimir lista
